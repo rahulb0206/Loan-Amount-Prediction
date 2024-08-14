@@ -17,3 +17,17 @@ The project consists of the following components:
 - model.py: Script for defining and training the neural network model.
 - prediction.py: Script for loading the TensorFlow Lite model, accepting user input, performing predictions, and displaying results.
 - Flutter Application: Developed using Android Studio, this application integrates the TensorFlow Lite model via the tflite_flutter package, allowing for real-time predictions on mobile devices. The output video demonstrates how the Flutter Web interface showcases predictions.
+
+# Requirements
+Python 3 or above
+TensorFlow 2 or above
+NumPy
+Pandas
+Android Studio
+Jupyter Notebook (for running .ipynb file)
+
+# Output Video
+
+https://github.com/user-attachments/assets/e1652313-a3e4-4a65-a995-31e4786746f6
+
+
