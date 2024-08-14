@@ -22,12 +22,12 @@ The project consists of the following components:
 - Flutter Application: Developed using Android Studio, this application integrates the TensorFlow Lite model via the tflite_flutter package, allowing for real-time predictions on mobile devices. The output video demonstrates how the Flutter Web interface showcases predictions.
 
 # Requirements
-Python 3 or above
-TensorFlow 2 or above
-NumPy
-Pandas
-Android Studio
-Jupyter Notebook (for running .ipynb file)
+- Python 3 or above
+- TensorFlow 2 or above
+- NumPy
+- Pandas
+- Android Studio
+- Jupyter Notebook (for running .ipynb file)
 
 # Output Video
 
