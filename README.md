@@ -1,4 +1,4 @@
-# Loan Amount Prediction using TensorFlow
+#                   LOAN AMOUNT PREDICTION USING TENSORFLOW
 This project focuses on predicting loan default status by analyzing various factors such as age, income, home ownership, loan intent, and credit history. Accurate loan default predictions are crucial for financial institutions as they assist in assessing risk, making informed lending decisions, and minimizing potential losses. The deployment of the model in TensorFlow Lite format ensures it is optimized for use on mobile and edge devices, enabling real-time decision-making in diverse environments. The integration of this model into a Flutter application, developed using Android Studio, further enhances accessibility by providing a user-friendly interface for real-time predictions on both mobile and web platforms.
 
 # Model Creation and Training
