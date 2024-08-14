@@ -10,6 +10,9 @@ The TensorFlow Lite model (.tflite) is utilized in a Flutter application. The co
 # Python Notebook
 The entire process of model creation, training, and conversion to TensorFlow Lite format is coded and executable in a Jupyter notebook (project.ipynb). This notebook provides a step-by-step guide for loading and preprocessing the dataset, designing and training the neural network, converting the trained model to TensorFlow Lite format, and predicting the loan amount. The notebook is an alternative way to run and explore the project, allowing users to directly execute the code and observe the results interactively.
 
+<img width="1403" alt="ipynb" src="https://github.com/user-attachments/assets/4283c068-ecae-4ac7-98d6-ab47103cc079">
+
+
 # Project Files
 The project consists of the following components:
 
